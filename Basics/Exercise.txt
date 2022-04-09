@@ -1,0 +1,3 @@
+1. The terminal is where you can make and save commands without a GUI such as making folders and files.
+2.Git is what helps make savings and changes with coding in your terminal and Github is a website.
+3.With Github you put all your folders, files and codings by making a repository on the website and pushing it on the website. With GitHub other people can see and work with you on it.
